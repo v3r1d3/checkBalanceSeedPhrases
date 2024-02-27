@@ -4,7 +4,7 @@ All you have to do is
 2. Place your seeds into seedd.txt where the seedchecker.py is located, create good.txt or simply replace path and name of your seed and result files at the end of the checkseed.py
 3. Run: python checkseed.py
 
-When script will finish checking, results will be saved in good.txt ( or w/e file you specify for output )
+When script will finish checking, results will be saved in good.txt ( or w/e file you specify for output. )
 
 Don't forget to install requirements with pip
 pip install requests
